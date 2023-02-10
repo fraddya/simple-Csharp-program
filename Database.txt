@@ -1,0 +1,9 @@
+CREATE TABLE Employer(
+    emp_name varchar(20),
+    emp_username varchar(20),
+    emp_add varchar(40),
+    emp_email varchar(50),
+    emp_psw varchar(20),
+    emp_copsw varchar(20),
+    emp_roll varchar(10)
+);

@@ -1,0 +1,14 @@
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\bin\Debug\Damsara.exe.config
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\bin\Debug\Damsara.exe
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\bin\Debug\Damsara.pdb
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.csproj.AssemblyReference.cache
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.Properties.Resources.resources
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.csproj.GenerateResource.cache
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.csproj.CoreCompileInputs.cache
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.exe
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.pdb
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.Login.resources
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.Register.resources
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\bin\Debug\MySql.Data.dll
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.csproj.CopyComplete
+C:\Users\fradd\OneDrive\Documents\SimpleC#program\Damsara\Damsara\obj\Debug\Damsara.Home.resources
